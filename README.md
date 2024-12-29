@@ -2,6 +2,7 @@
 #### 一个周游世界的农夫，喜欢写代码和诗
 #### 拒绝跟风，只做真正的AI
 
+
 ## My Demos:
 ### Eliza: The first chat bot that past Turing Test, can you tell whether he/she is a human or robot?
 #### The first demo for Eliza: https://youtu.be/iwrOrG0a1SU
@@ -15,11 +16,14 @@
 #### The demo of FlappyBird:  https://youtu.be/wk1aY1dAja0 
 #### The source code of Flappybird: https://github.com/QianruZhou333/FlappyBird
 
+
 ## My Posts 精选博文
 #### 从可信人工智能到算法霸权: https://mp.weixin.qq.com/s/b7og9p6TXqMQK2Hl8e-Bew
 #### 人工智能的冬天，到底是如何降临的: https://mp.weixin.qq.com/s/3XNzbLMBHsWv2JY2eB-Vsg
 #### 人工智能的本质----“智能”从何而来: https://mp.weixin.qq.com/s/AVJ8BeX2bKDMoSGCkWqnzQ
 #### 史上第一个真正有智能的AI: https://mp.weixin.qq.com/s/q5C_ikyK_2rugaMkhdKGOg
+
+
 
 ## My Selected Publications:
 ### Explainbable AI
